@@ -1,5 +1,5 @@
 # squawkBox
-An piCore based light weight operating system with everything needed for low cost, lightweight voip services.
+A piCore based light weight operating system with everything needed for low cost, lightweight voip services.
 
 For this project my main goals in order will be
   1. Implement basic chat room type voip services using only raspberry pis
