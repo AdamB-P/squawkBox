@@ -1,2 +1,2 @@
 # squawkBox
-An piCore based raspberry pi oriented operating system with everything needed for low cost, lightweight voip services.
+An piCore based light weight operating system with everything needed for low cost, lightweight voip services.
